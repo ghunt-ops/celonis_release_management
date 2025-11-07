@@ -18,8 +18,8 @@ Open the main_file.IPYNB file and follow the documented steps.
 This project is licensed under the Apache License - see the LICENSE file for details.
 
 ## ✉️ Contact
-Role	Name	GitHub
-Maintainer	ghunt-ops	https://github.com/ghunt-ops
-Project Link		https://github.com/ghunt-ops/pycelonis-release-manager
+Maintainer: ghunt-ops (https://github.com/ghunt-ops)
+
+Project Link: https://github.com/ghunt-ops/pycelonis-release-manager
 
 
